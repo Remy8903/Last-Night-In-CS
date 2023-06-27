@@ -7,8 +7,7 @@ Prepare to embark on an immersive and gripping journey into the depths of Shadow
 
 ## Features
 * Colorfull Text-Based Gameplay
-  *Experiences an horror and immersive text-based adventure game that focuses on decision-making and strorytelling.Rich of     descriptive text and diaglogues
-
+ *Experiences an horror and immersive text-based adventure game that focuses on decision-making and strorytelling.Rich of        descriptive text and diaglogue. 
 ## How to play ?
 
 ## Object Oriented
