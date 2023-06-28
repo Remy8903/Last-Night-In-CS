@@ -17,7 +17,7 @@ Prepare to embark on an immersive and gripping journey into the depths of Shadow
 * You can compile the code given and run it on your compiler such as Dev C++ or Visual Studio Code 
 
 ## Object Oriented
-*Our linked list using Object Oriented program to Append the linked list and to  Display the linked list .
+* Our linked list using Object Oriented program to Append the linked list and to  Display the linked list .
 
 ## Linked List
 * In this program there is Two linked that has been implement ,
