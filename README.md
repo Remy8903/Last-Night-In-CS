@@ -30,3 +30,4 @@ Riddle No.1 = "ECHO"
 Riddle NO.2 = "KEYBOARD"
 Riddle No.3 = "PENCIL"
 ## Link for Gameplay
+https://youtu.be/I65KqA4_gW4
