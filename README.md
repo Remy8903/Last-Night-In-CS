@@ -21,13 +21,15 @@ Prepare to embark on an immersive and gripping journey into the depths of Shadow
 
 ## Linked List
 * In this program there is Two linked that has been implement ,
-* LinkedList for Inventory and ,
-* Linked List for Clue.
+* LinkedList for Inventory  to insert item such as metal and stationary and ,
+* Linked List for Clue for put the clue inside and use it to answer final ridle.
 
 ## Cheat Answer For Testing
 
 Riddle No.1 = "ECHO"
 Riddle NO.2 = "KEYBOARD"
 Riddle No.3 = "PENCIL"
+
+Final Riddle based on Clue ="the past stay"
 ## Link for Gameplay
 https://youtu.be/I65KqA4_gW4
